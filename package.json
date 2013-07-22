@@ -1,0 +1,21 @@
+{
+  "name": "node-nlpir",
+  "description": "Node.js addon for ictclas",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Tank000/node-nlpir",
+  "author": {
+    "name":"Tank",
+    "email":"tank.tyt@gmail.com"
+    },
+  "main": "ictclas",
+  "keywords": [
+    "nlpir",
+    "ictclas"
+  ],
+  "main": "nlpir",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tank000/node-nlpir.git"
+  },
+  "_id": "ejs@0.1.0"
+}
